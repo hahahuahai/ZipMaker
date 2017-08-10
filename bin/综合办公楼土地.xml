@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parcel parcelname="综合办公楼土地">
+  <file filename="管线图" exist="true" />
+  <file filename="管线图-1" exist="true" />
+  <file filename="土地证" exist="true" />
+  <file filename="土地证-1" exist="true" />
+  <file filename="宗地图" exist="true" />
+  <file filename="宗地图-1" exist="true" />
+  <file filename="总平面分布图" exist="true" />
+  <file filename="总平面分布图-1" exist="true" />
+  <file filename="航拍" exist="true" />
+  <file filename="全景" exist="true" />
+  <folder foldername="鸟瞰图">
+    <file filename="前" exist="true" />
+    <file filename="前-1" exist="true" />
+    <file filename="后" exist="true" />
+    <file filename="后-1" exist="true" />
+    <file filename="右" exist="true" />
+    <file filename="右-1" exist="true" />
+    <file filename="左" exist="true" />
+    <file filename="左-1" exist="true" />
+    <file filename="正射" exist="true" />
+    <file filename="正射-1" exist="true" />
+  </folder>
+  <folder foldername="综合管理大楼辅楼北湖">
+    <file filename="分层CAD图" exist="false" />
+    <file filename="房产证" exist="true" />
+    <file filename="房产证-1" exist="true" />
+    <file filename="外墙实景图" exist="false" />
+    <file filename="外墙实景图-1" exist="true" />
+    <file filename="一层平面图" exist="true" />
+    <file filename="一层平面图-1" exist="true" />
+    <file filename="二层平面图" exist="true" />
+    <file filename="二层平面图-1" exist="true" />
+    <file filename="三层平面图" exist="true" />
+    <file filename="三层平面图-1" exist="true" />
+    <file filename="四层平面图" exist="true" />
+    <file filename="四层平面图-1" exist="true" />
+  </folder>
+  <folder foldername="综合管理大楼">
+    <file filename="分层CAD图" exist="false" />
+    <file filename="房产证" exist="true" />
+    <file filename="房产证-1" exist="true" />
+    <file filename="外墙实景图" exist="true" />
+    <file filename="外墙实景图-1" exist="true" />
+    <file filename="一层平面图" exist="true" />
+    <file filename="一层平面图-1" exist="true" />
+    <file filename="二层平面图" exist="true" />
+    <file filename="二层平面图-1" exist="true" />
+    <file filename="三层平面图" exist="true" />
+    <file filename="三层平面图-1" exist="true" />
+    <file filename="四层平面图" exist="true" />
+    <file filename="四层平面图-1" exist="true" />
+    <file filename="五层平面图" exist="true" />
+    <file filename="五层平面图-1" exist="true" />
+    <file filename="六层平面图" exist="true" />
+    <file filename="六层平面图-1" exist="true" />
+    <file filename="七层平面图" exist="true" />
+    <file filename="七层平面图-1" exist="true" />
+    <file filename="八层平面图" exist="true" />
+    <file filename="八层平面图-1" exist="true" />
+    <file filename="九层平面图" exist="true" />
+    <file filename="九层平面图-1" exist="true" />
+    <file filename="十层平面图" exist="true" />
+    <file filename="十层平面图-1" exist="true" />
+    <file filename="十一层平面图" exist="true" />
+    <file filename="十一层平面图-1" exist="true" />
+    <file filename="十二层平面图" exist="true" />
+    <file filename="十二层平面图-1" exist="true" />
+    <file filename="十三层平面图" exist="true" />
+    <file filename="十三层平面图-1" exist="true" />
+    <file filename="十四层平面图" exist="true" />
+    <file filename="十四层平面图-1" exist="true" />
+    <file filename="十五层平面图" exist="true" />
+    <file filename="十五层平面图-1" exist="true" />
+    <file filename="十六层平面图" exist="true" />
+    <file filename="十六层平面图-1" exist="true" />
+  </folder>
+</parcel>

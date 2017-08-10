@@ -1,0 +1,18 @@
+C:\Users\huahai\documents\visual studio 2013\Projects\ZipMaker\ZipMaker\bin\Debug\ZipMaker.exe
+C:\Users\huahai\documents\visual studio 2013\Projects\ZipMaker\ZipMaker\bin\Debug\ZipMaker.pdb
+C:\Users\huahai\documents\visual studio 2013\Projects\ZipMaker\ZipMaker\obj\Debug\ZipMaker.csprojResolveAssemblyReference.cache
+C:\Users\huahai\documents\visual studio 2013\Projects\ZipMaker\ZipMaker\obj\Debug\ZipMaker.Properties.Resources.resources
+C:\Users\huahai\documents\visual studio 2013\Projects\ZipMaker\ZipMaker\obj\Debug\ZipMaker.csproj.GenerateResource.Cache
+C:\Users\huahai\documents\visual studio 2013\Projects\ZipMaker\ZipMaker\obj\Debug\ZipMaker.exe
+C:\Users\huahai\documents\visual studio 2013\Projects\ZipMaker\ZipMaker\obj\Debug\ZipMaker.pdb
+C:\Users\huahai\documents\visual studio 2013\Projects\ZipMaker\ZipMaker\obj\Debug\ZipMaker.zipmaker.resources
+F:\study\国网江苏\svnRealEstate\ZipMaker\obj\Debug\ZipMaker.exe
+F:\study\国网江苏\svnRealEstate\ZipMaker\obj\Debug\ZipMaker.pdb
+F:\study\国网江苏\svnRealEstate\ZipMaker\bin\Debug\ZipMaker.exe
+F:\study\国网江苏\svnRealEstate\ZipMaker\bin\Debug\ZipMaker.pdb
+F:\study\国网江苏\svnRealEstate\ZipMaker\obj\Debug\ZipMaker.csprojResolveAssemblyReference.cache
+F:\study\国网江苏\svnRealEstate\ZipMaker\obj\Debug\ZipMaker.zipmaker.resources
+F:\study\国网江苏\svnRealEstate\ZipMaker\obj\Debug\ZipMaker.Properties.Resources.resources
+F:\study\国网江苏\svnRealEstate\ZipMaker\obj\Debug\ZipMaker.csproj.GenerateResource.Cache
+F:\study\国网江苏\ZipMaker\obj\Debug\ZipMaker.exe
+F:\study\国网江苏\ZipMaker\obj\Debug\ZipMaker.pdb
